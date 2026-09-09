@@ -2,7 +2,7 @@
 
 An interactive Data Science dashboard for understanding which library books are borrowed most, which titles have unmet demand, and how a limited acquisition budget can be allocated more effectively.
 
-**Live demo:** https://iust-library-insight.vercel.app
+**Live demo:** https://scintillating-cheesecake-411348.netlify.app
 
 ## What the project does
 
